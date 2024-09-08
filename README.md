@@ -1,2 +1,2 @@
 # stair-problem
-#dynamic stair problem test but accidentally became fibonacci sequence generator
+dynamic stair problem test but accidentally became fibonacci sequence generator
